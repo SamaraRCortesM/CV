@@ -1,0 +1,41 @@
+{
+    "name" : "Curriculum" ,
+    "short_name" : "Curriculum " ,
+    "start_url" : " / " ,
+    "display" : " standalone" ,
+    "newaxis" :[
+        {
+            "src" : "/newaxis/android-icon-36x36.png" ,
+            "size" : "36x36" ,
+            "type" : " image/png "
+        },
+
+        {
+            "src" : "/newaxis/android-icon-72x72.png " ,
+            "size" : " 72x72 " ,
+            "type" : " image/png "
+        },
+        {
+            "src" : " /newaxis/android-icon-96x96.png " ,
+            "size" : " 96x96 " ,
+            "type" : " image/png "
+        },
+        {
+            "src" : " /newaxis/apple-icon-114x114.png " ,
+            "size" : " 114x114 " ,
+            "type" : " image/png "
+        },
+        {
+            "src" : " /newaxis/apple-icon-152x152.png " ,
+            "size" : " 152-152" ,
+            "type" : " image/png "
+        },
+        {
+            "origen" : " /newaxis/apple-icon-180x180.png " ,
+            "size" : " 180x180 " ,
+            "type" : " image/png "
+        }
+    ],
+    "theme_color" : " #000000 " ,
+    "background_color" : " #ffffff "
+}

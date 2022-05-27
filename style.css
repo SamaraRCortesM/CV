@@ -1,0 +1,68 @@
+
+.cont{
+    background-color: rgb(216, 191, 250);
+    width: 70%;
+    height:150px;
+    font-family: 'Montserrat', sans-serif;
+    text-align:left ;
+    margin:50px 50px 50px 50px;
+    padding-right:0;
+}
+
+.contenerdor2{
+    border-style:groove;
+    border-color:rgb(194, 145, 223);
+    width: 30%;
+   font-family: 'Montserrat', sans-serif;
+    margin:50px 50px 50px 50px;
+    padding-right: 50;
+    
+}
+.contenedor3{
+   border-style: groove;
+   border-color:rgb(194, 145, 223);
+    width: 30%;
+    font-family: 'Montserrat', sans-serif;
+    margin:50px 50px 50px 50px;
+}
+.contenedor4{
+    border-style:groove ;
+    border-color:rgb(194, 145, 223);
+    width: 30%;
+    font-family: 'Montserrat', sans-serif;
+    margin:50px 50px 50px 50px;
+}
+.contenedorextra{
+    border-style: groove;
+    border-color:rgb(194, 145, 223);
+    width: 30%;
+    font-family: 'Montserrat', sans-serif;
+    margin:50px 50px 50px 50px;
+    position:relative;
+    bottom:595px;
+    left: 650px;
+   
+}
+.contenedor5{
+    border-style: groove;
+    border-color:rgb(194, 145, 223);
+    width: 30%;
+    font-family: 'Montserrat', sans-serif;
+    margin:50px 50px 50px 50px;
+    position:relative;
+    bottom:595px;
+    left: 650px;
+}
+
+.contenedor6{
+    border-style: groove;
+    border-color:rgb(194, 145, 223);
+    width: 30%;
+    font-family: 'Montserrat', sans-serif;
+    margin:50px 50px 50px 50px;
+    position:relative;
+    bottom:540px;
+    left: 650px;
+}
+
+
